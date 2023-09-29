@@ -110,7 +110,7 @@ COPY dino-vs-dragon-v2.tflite .
 Важные моменты:
 
 - В этом образе уже имеется модель, и это не та модель, которую мы рассматривали в вопросах с 1 по 4.
-- Используемая версия Python - 3.9. Убедитесь, что вы используете соответствующую версию TF-Lite. Для Tensorflow 2.7.0 ссылка на необходимый пакет: https://github.com/alexeygrigorev/tflite-aws-lambda/raw/main/tflite/tflite_runtime-2.7.0-cp39-cp39-linux_x86_64.whl
+- Используемая версия Python - 3.9. Убедитесь, что вы используете соответствующую версию TF-Lite. Для Tensorflow 2.7.0 ссылка на необходимый пакет: https://github.com/MukhamejanKaratayev/hw-serverless-lambda/tflite_runtime-2.7.0-cp39-cp39-linux_x86_64.whl
 
 ## Вопрос 5
 
